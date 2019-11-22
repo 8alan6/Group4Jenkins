@@ -1,6 +1,6 @@
 #!/usr/bin/env python -u
 import datetime
-print("Hello world!")
+print("It is working :) ")
 now = datetime.datetime.now()
 print ("Current date and time is ")
 print (now.strftime("%A, %d-%m-%Y : %H:%M"))	
