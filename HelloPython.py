@@ -1,6 +1,6 @@
 #!/usr/bin/env python -u
 import datetime
-print("Jenkins...")
+print("Jenkins Group 4")
 now = datetime.datetime.now()
 print ("Current date and time is ")
 print (now.strftime("%A, %d-%m-%Y : %H:%M"))	
